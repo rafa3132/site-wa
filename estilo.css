@@ -1,4 +1,11 @@
 body {
 background-color: blue;
-color: white
+color: white;
+font-family: Helvetica;
+margin: 40px
+}
+
+h1 {
+color: #facc15;
+text-align: center
 }
